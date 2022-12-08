@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.834c015c.css",
+    "main.js": "/portfolio/static/js/main.29ecce70.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/std-preview.png": "/portfolio/static/media/std-preview.b356eb575c2c479504e1.png",
+    "static/media/clarice.png": "/portfolio/static/media/clarice.aaa57d12c20c608eb9aa.png",
+    "static/media/bobby.png": "/portfolio/static/media/bobby.aed3094e49f371582547.png",
+    "static/media/reaper.mp4": "/portfolio/static/media/reaper.84a501db4ad1d5d704b1.mp4",
+    "static/media/std-valley.png": "/portfolio/static/media/std-valley.0b07aeec0a310db1eba4.png",
+    "static/media/bh-ex.png": "/portfolio/static/media/bh-ex.34119e32a972b0bd2cd4.png",
+    "static/media/desktopLOFI.png": "/portfolio/static/media/desktopLOFI.a5b51e4a3e4247b959ea.png",
+    "static/media/desktopHIFI.png": "/portfolio/static/media/desktopHIFI.ff8ecb9282ea5d7c5aa8.png",
+    "static/media/tabletHIFI.png": "/portfolio/static/media/tabletHIFI.e858ed5500f2b66c76bb.png",
+    "static/media/story.jpg": "/portfolio/static/media/story.1cc7a67c7be542a54263.jpg",
+    "static/media/tabletLOFI.png": "/portfolio/static/media/tabletLOFI.3175cef6256e8d15fd4f.png",
+    "static/media/prev.png": "/portfolio/static/media/prev.ac7d99f71bb9ce5e8d4b.png",
+    "static/media/mobileLOFI.png": "/portfolio/static/media/mobileLOFI.95ab471a5144c6682365.png",
+    "static/media/v.png": "/portfolio/static/media/v.abb8f06d66c1a678bd68.png",
+    "static/media/mobileHIFI.png": "/portfolio/static/media/mobileHIFI.8014376f1852ae248a29.png",
+    "static/media/filter-sort.png": "/portfolio/static/media/filter-sort.9266ff9a398a35bd88f4.png",
+    "static/media/filter-type.png": "/portfolio/static/media/filter-type.c142cb16361a26ae668e.png",
+    "static/media/planet-earth.svg": "/portfolio/static/media/planet-earth.5caca7bb3b563f3a2820046088750052.svg",
+    "static/media/planet-venus.svg": "/portfolio/static/media/planet-venus.ce5e05e4ea320d0b8b329a68801f1aaf.svg",
+    "static/media/planet-mars.svg": "/portfolio/static/media/planet-mars.6f9c8082aca2071ad70c74224b0d7068.svg",
+    "static/media/planet-mercury.svg": "/portfolio/static/media/planet-mercury.69339c1f5d51ed49879a28951b43a53d.svg",
+    "index.html": "/portfolio/index.html",
+    "main.834c015c.css.map": "/portfolio/static/css/main.834c015c.css.map",
+    "main.29ecce70.js.map": "/portfolio/static/js/main.29ecce70.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.834c015c.css",
+    "static/js/main.29ecce70.js"
+  ]
+}
