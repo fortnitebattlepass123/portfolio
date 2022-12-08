@@ -1,0 +1,41 @@
+[
+    {
+        "name": "REAPER AIO",
+        "id": "1",
+        "routeTail": "/reaper",
+        "cardColor": "#fffff",
+        "date": "June 2018",
+        "desc": "Our journey begins with my first personal project, combining two of my hobbies.",
+        "url": "reaper.mp4",
+        "isImg": false
+                
+    },
+    {
+        "name": "Personas & Storyboarding",
+        "id": "2",
+        "routeTail": "/personas",
+        "date": "October 2022",
+        "desc": "Welcome to the UI/UX asteroid belt: this is my first project in the field.",
+        "url": "story.jpg",
+        "isImg": true
+    },
+    {
+        "name": "Responsive Redesign",
+        "id": "3",
+        "routeTail": "/responsive",
+        "date": "October 2022",
+        "desc": "We've become trapped in the belt! Let's have some fun redesigning Berkshire Hathaway.",
+        "url": "prev.png",
+        "isImg": true
+    },
+    {
+        "name": "Stardew Valley React Demo",
+        "id": "4",
+        "routeTail": "/react",
+        "date": "November 2022",
+        "desc": "We're almost out of the belt! Let's reminisce on some childhood nostalgia while learning React.",
+        "url": "std-valley.png",
+        "isImg": true
+    }
+    
+]

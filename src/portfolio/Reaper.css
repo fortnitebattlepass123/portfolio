@@ -1,0 +1,45 @@
+.Collapsible{
+    background-color: #777;
+    color: white;
+    cursor: pointer;
+    border: none;
+    text-align: center;
+    outline: none;
+    /* flex to center text increase font size and make larger */
+    flex: 1; 
+    flex-direction: row;
+    justify-content: center;
+
+
+    border-radius: 12px;
+    margin: 15px;
+
+
+}
+
+.Collapsible:hover {
+    background-color: #555;
+}
+
+.Collapsible__contentInner {
+    padding: 0 18px;
+    font-size: 2rem; 
+
+}
+
+.Collapsible__contentOuter {
+    padding: 0 18px;
+    /* set cursor to normal  */
+    cursor: default;
+    
+
+}
+
+.Collapsible__trigger {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    font-size: 3.5rem; 
+    font-weight: bold;
+}

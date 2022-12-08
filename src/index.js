@@ -2,12 +2,52 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import Reaper from './portfolio/Reaper';
+import Personas from './portfolio/Personas';
+import Responsive from './portfolio/Responsive';
+import ReactPortfolio from './portfolio/ReactPortfolio';
+import {
+  createBrowserRouter,
+  RouterProvider,
+  Route,
+} from "react-router-dom";
 import reportWebVitals from './reportWebVitals';
+
+import ErrorPage from "./error-page";
+
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <App />,
+    errorElement: <ErrorPage />,
+  }, 
+  {
+    path: "/portfolio",
+    element: <App />,
+    errorElement: <ErrorPage />,
+  },
+  {
+    path: "/reaper",
+    element: <Reaper />,
+  },
+  {
+    path: "/personas",
+    element: <Personas />,
+  } ,
+  {
+    path: "/responsive",
+    element: <Responsive />,
+  },
+  {
+    path: "/react",
+    element: <ReactPortfolio />,
+  }
+]);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <RouterProvider router={router} />
   </React.StrictMode>
 );
 
