@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1fdf367b.css",
-    "main.js": "/portfolio/static/js/main.f6180fef.js",
+    "main.css": "/portfolio/static/css/main.bc2e6f16.css",
+    "main.js": "/portfolio/static/js/main.54699fe9.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/std-preview.png": "/portfolio/static/media/std-preview.b356eb575c2c479504e1.png",
     "static/media/clarice.png": "/portfolio/static/media/clarice.aaa57d12c20c608eb9aa.png",
@@ -26,12 +26,12 @@
     "static/media/planet-mars.svg": "/portfolio/static/media/planet-mars.6f9c8082aca2071ad70c74224b0d7068.svg",
     "static/media/planet-mercury.svg": "/portfolio/static/media/planet-mercury.69339c1f5d51ed49879a28951b43a53d.svg",
     "index.html": "/portfolio/index.html",
-    "main.1fdf367b.css.map": "/portfolio/static/css/main.1fdf367b.css.map",
-    "main.f6180fef.js.map": "/portfolio/static/js/main.f6180fef.js.map",
+    "main.bc2e6f16.css.map": "/portfolio/static/css/main.bc2e6f16.css.map",
+    "main.54699fe9.js.map": "/portfolio/static/js/main.54699fe9.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fdf367b.css",
-    "static/js/main.f6180fef.js"
+    "static/css/main.bc2e6f16.css",
+    "static/js/main.54699fe9.js"
   ]
 }
