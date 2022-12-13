@@ -18,7 +18,7 @@ function App() {
           <div className='h-3/4 w-full flex-col items-center mt-10'>
             <h1 className='text-8xl text-[#b9c1c4] font-sans'>
               <div className=' flex flex-row justify-start w-full pl-10 text-left'>
-                Hey, I'm Anon. <br />
+                Hey, I'm Astronaut #6. <br />
               </div>
 
 
