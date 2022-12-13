@@ -72,7 +72,7 @@ const ParticleBackground = () => {
                 enable: true,
                 area: 600,
               },
-              value: 40,
+              value: 50,
             },
             opacity: {
               value: 0.5,
@@ -83,7 +83,7 @@ const ParticleBackground = () => {
               inset: 10,
             },
             size: {
-              value: { min: 3, max: 4.5 },
+              value: { min: 1.5, max: 2 },
             },
           },
           detectRetina: true,

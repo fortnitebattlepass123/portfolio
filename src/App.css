@@ -3,15 +3,15 @@
 }
 
 #rocket {
-  width: 300px;
-  height: 300px;
+  width: 150px;
+  height: 150px;
   margin: 0 auto;
   animation: bounce 2s infinite;
 }
 
 #rocketDiv {
-  width: 300px;
-  height: 300px;
+  width: 150px;
+  height: 150px;
 }
 
 

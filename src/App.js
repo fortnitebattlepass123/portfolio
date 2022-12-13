@@ -14,18 +14,15 @@ function App() {
       <ParticleBackground />
       <div className='z-10'>
         <div className='mt-20 mb-20 w-full h-screen flex flex-col justify-between items-center'>
-          <div className='h-1/4'>
 
-          </div>
-
-          <div className='h-1/2 w-full flex-col items-center'>
-            <h1 className='text-9xl text-[#b9c1c4] font-sans'>
-              <div className=' flex flex-row justify-start w-full pl-20 text-left'>
+          <div className='h-3/4 w-full flex-col items-center mt-10'>
+            <h1 className='text-8xl text-[#b9c1c4] font-sans'>
+              <div className=' flex flex-row justify-start w-full pl-10 text-left'>
                 Hey, I'm Anon. <br />
               </div>
 
 
-              <div className='flex flex-row justify-start w-full pl-20'>
+              <div className='flex flex-row justify-start w-full pl-10'>
                 <div className=''>I love to&nbsp;</div>
                 <div id="type-animation" >
 
@@ -84,8 +81,8 @@ function App() {
               </div>
 
             </h1>
-            <div className='text-6xl text-[#b9c1c4] font-sans flex flex-col justify-center items-end mr-20 w-full'>
-              <div className='w-auto mr-20'>
+            <div className='text-4xl text-[#b9c1c4] font-sans flex flex-col justify-end items-center mt-10 w-full'>
+              <div className='w-auto '>
                 <p> Let's go on a journey together </p>
                 <div className='flex flex-row justify-center mt-8'>
                   <button id="search-button" onClick={() => { window.location.href = "#content" }}>

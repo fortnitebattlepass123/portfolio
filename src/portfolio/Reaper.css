@@ -1,5 +1,5 @@
 .Collapsible{
-    background-color: #777;
+    background-color: #302d2b;
     color: white;
     cursor: pointer;
     border: none;
@@ -11,27 +11,31 @@
     justify-content: center;
 
 
-    border-radius: 12px;
-    margin: 15px;
+    border-radius: 6px;
+    margin: 7.5px;
+    box-shadow: 2px 3px 4px 0px #ddd;
 
 
 }
 
 .Collapsible:hover {
-    background-color: #555;
+    background-color: #3b3937;
 }
 
 .Collapsible__contentInner {
-    padding: 0 18px;
-    font-size: 2rem; 
+    padding: 0 9px;
+    font-size: 1rem; 
+    padding-top: 1rem;
+
 
 }
 
 .Collapsible__contentOuter {
-    padding: 0 18px;
+    padding: 0 9px;
     /* set cursor to normal  */
     cursor: default;
-    
+    background-color: #413d3b;
+
 
 }
 
@@ -39,7 +43,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 50px;
-    font-size: 3.5rem; 
+    padding: 25px;
+    font-size: 1.75rem; 
     font-weight: bold;
 }

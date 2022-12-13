@@ -19,7 +19,7 @@ const PortfolioItem = (props) => {
     return (
         <Link to={props.portfolio.routeTail}>
 
-            <div id="portfolioItem" className='  ml-20 mr-40 hover:scale-105 hover:cursor-pointer' onMouseOver={handleMouseOver} onMouseOut={handleMouseOut}>
+            <div id="portfolioItem" className='text-[#b9c1c4]  ml-10 mr-20 hover:scale-105 hover:cursor-pointer' onMouseOver={handleMouseOver} onMouseOut={handleMouseOut}>
 
                 {
                     (!isHovering) ?
@@ -30,12 +30,13 @@ const PortfolioItem = (props) => {
                                 <source src={process.env.PUBLIC_URL + "/" + props.portfolio.url} type="video/mp4" />
                             </video>)
                         :
-                        <div className='bg-[#545BFE] w-full h-full flex flex-col justify-center items-center'>
-                            <p className='text-4xl '>
-                                Mission {props.portfolio.id}:
-                            </p>
+                        <div className='bg-[#545BFE] w-full h-full flex flex-col justify-evenly items-center'>
+
+                                <p className='text-4xl'>
+                                    MISSION {props.portfolio.id}: {<div className="text-3xl inline"> {props.portfolio.date} </div>}
+                                </p>
                             <h1 className='text-4xl text-center'>{props.portfolio.name}</h1>
-                            <h2 className='text-3xl text-center'>{props.portfolio.date}</h2>
+
                             <p className='text-xl text-center'>{props.portfolio.desc}</p>
                         </div>
                 }
