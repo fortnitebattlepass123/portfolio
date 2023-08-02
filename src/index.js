@@ -5,7 +5,10 @@ import App from './App';
 import Reaper from './portfolio/Reaper';
 import Personas from './portfolio/Personas';
 import Responsive from './portfolio/Responsive';
+import Chess from './portfolio/Chess';
 import ReactPortfolio from './portfolio/ReactPortfolio';
+
+
 import {
   createBrowserRouter,
   RouterProvider,
@@ -41,6 +44,10 @@ const router = createBrowserRouter([
   {
     path: "/react",
     element: <ReactPortfolio />,
+  },
+  {
+    path: "/chess",
+    element: <Chess />
   }
 ]);
 

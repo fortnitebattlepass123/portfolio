@@ -11,26 +11,17 @@
                 
     },
     {
-        "name": "Personas & Storyboarding",
+        "name": "Chess.com Remake",
         "id": "2",
-        "routeTail": "/personas",
-        "date": "October 2022",
-        "desc": "Welcome to the UI/UX asteroid belt: this is my first project in the field.",
-        "url": "story.jpg",
-        "isImg": true
-    },
-    {
-        "name": "Responsive Redesign",
-        "id": "3",
-        "routeTail": "/responsive",
-        "date": "October 2022",
-        "desc": "We've become trapped in the belt! Let's have some fun redesigning Berkshire Hathaway.",
-        "url": "prev.png",
+        "routeTail": "/chess",
+        "date": "May 2021",
+        "desc": "Let's combine multiple Javascript frameworks to recreate a fun multiplayer game!",
+        "url": "chess.png",
         "isImg": true
     },
     {
         "name": "Stardew Valley React Demo",
-        "id": "4",
+        "id": "3",
         "routeTail": "/react",
         "date": "November 2022",
         "desc": "We're almost out of the belt! Let's reminisce on some childhood nostalgia while learning React.",

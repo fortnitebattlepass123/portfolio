@@ -8,17 +8,26 @@ import { ReactComponent as Venus } from './assets/planet-venus.svg';
 import { ReactComponent as Earth } from './assets/planet-earth.svg';
 import { ReactComponent as Mars } from './assets/planet-mars.svg';
 import { ReactComponent as Rocket } from './assets/rocket-ship.svg';
+import { ReactComponent as LinkedIn } from './assets/linkedin.svg';
+import { ReactComponent as GitHub } from './assets/github.svg';
 function App() {
   return (
     <div className='App'>
       <ParticleBackground />
       <div className='z-10'>
-        <div className='mt-20 mb-20 w-full h-screen flex flex-col justify-between items-center'>
+        <div className='mt-8 mb-20 w-full h-screen flex flex-col justify-between items-center'>
+          <div className='flex flex-row justify-end items-start w-full'>
+
+            <a target="_blank" href='https://www.linkedin.com/in/rishi-s-patel'> <LinkedIn className='h-10 w-10 mr-4 hover:scale-105 hover:cursor-pointer' /></a>
+            <a target="_blank" href='https://github.com/rishi517'> <GitHub className='h-10 w-10 mr-4 hover:scale-105 hover:cursor-pointer' /></a>
+        
+            
+          </div>
 
           <div className='h-3/4 w-full flex-col items-center mt-10'>
             <h1 className='text-8xl text-[#b9c1c4] font-sans'>
               <div className=' flex flex-row justify-start w-full pl-10 text-left'>
-                Hey, I'm Astronaut #6. <br />
+                Hey, I'm Rishi. <br />
               </div>
 
 
@@ -102,7 +111,6 @@ function App() {
           <PortfolioContainer planetRight={true} planet={<Venus />} portfolio={portfolioData[0]} />
           <PortfolioContainer planetRight={false} planet={<Mars />} portfolio={portfolioData[1]} />
           <PortfolioContainer planetRight={true} planet={<Mercury />} portfolio={portfolioData[2]} />
-          <PortfolioContainer planetRight={false} planet={<Earth />} portfolio={portfolioData[3]} />
         </div>
       </div>
     </div>
