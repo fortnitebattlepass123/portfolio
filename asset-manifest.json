@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.bc2e6f16.css",
-    "main.js": "/portfolio/static/js/main.b914ed01.js",
+    "main.css": "/portfolio/static/css/main.fac8097c.css",
+    "main.js": "/portfolio/static/js/main.4751d766.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/std-preview.png": "/portfolio/static/media/std-preview.b356eb575c2c479504e1.png",
     "static/media/clarice.png": "/portfolio/static/media/clarice.aaa57d12c20c608eb9aa.png",
@@ -23,15 +23,17 @@
     "static/media/planet-earth.svg": "/portfolio/static/media/planet-earth.5caca7bb3b563f3a2820046088750052.svg",
     "static/media/rocket-ship.svg": "/portfolio/static/media/rocket-ship.c27613d714be994276d5201f821db831.svg",
     "static/media/planet-venus.svg": "/portfolio/static/media/planet-venus.ce5e05e4ea320d0b8b329a68801f1aaf.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.93054bbbbe96de35d54705971abaf9dc.svg",
     "static/media/planet-mars.svg": "/portfolio/static/media/planet-mars.6f9c8082aca2071ad70c74224b0d7068.svg",
     "static/media/planet-mercury.svg": "/portfolio/static/media/planet-mercury.69339c1f5d51ed49879a28951b43a53d.svg",
+    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.076a19d4c1103b16b75aca5fa02386f1.svg",
     "index.html": "/portfolio/index.html",
-    "main.bc2e6f16.css.map": "/portfolio/static/css/main.bc2e6f16.css.map",
-    "main.b914ed01.js.map": "/portfolio/static/js/main.b914ed01.js.map",
+    "main.fac8097c.css.map": "/portfolio/static/css/main.fac8097c.css.map",
+    "main.4751d766.js.map": "/portfolio/static/js/main.4751d766.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc2e6f16.css",
-    "static/js/main.b914ed01.js"
+    "static/css/main.fac8097c.css",
+    "static/js/main.4751d766.js"
   ]
 }
